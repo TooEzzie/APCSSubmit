@@ -1,0 +1,15 @@
+What is a Database?
+Define it and explain it in detail.
+  It's a set of data that is structured in such a way that it can be accessed in multiple different ways.
+  Many different operations can be done with them and they're used in many day to day applications. Examples are Google.
+  
+Mention at least 5 different Types of Databases.
+  Big data databases
+  Relational databases
+  Operational databases
+  Distributed databases
+  Object Oriented databases
+  
+What Does Relational means in the Database world?
+  It's a set of data that is organized in tables. In relational databases, the data can be accessed and reassembled in a lot of ways but
+  you don't have to reorganize the data-tables. The data is sorted into pre-determined catagories that are then easily accessed.
